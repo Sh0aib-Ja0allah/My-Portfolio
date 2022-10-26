@@ -666,3 +666,11 @@ footer .first{
 }
 
 /* end of media screen css. */
+.github {
+	font-size: xx-large;
+}
+.git {
+	font-size: xx-large;
+	font-weight: 100;
+	color: white;
+}
