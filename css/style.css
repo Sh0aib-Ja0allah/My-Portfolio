@@ -674,3 +674,6 @@ footer .first{
 	font-weight: 100;
 	color: white;
 }
+.inProgress {
+	color: #f9004d;
+}
